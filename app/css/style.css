@@ -1,0 +1,13 @@
+body {
+  background-color: #666; }
+  body .squaer {
+    height: 100px;
+    width: 100px;
+    border: 1px solid #fff;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+  body .s1 {
+    background-color: #9c9;
+    margin-bottom: 20px; }
+  body .s2 {
+    background-color: #f9f; }
